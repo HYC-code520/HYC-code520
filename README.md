@@ -9,9 +9,25 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 
 💬 Ask me about React, Flask, creative coding ideas, or how to turn a hobby into an app  
 📫 How to reach me: happilyeverafter0800@gmail.com  
-⚡ Fun fact: I make balloon bouquets and film chaotic cat videos for fun
+⚡ Fun fact: I used to design fashion collections—now I design apps
 
 ---
 
-### Languages and Tools:
-html5 css3 javascript react reactnative flask python sqlite git postman tailwind figma
+### 🛠️ Languages and Tools:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYC-code520&layout=compact&theme=default)
