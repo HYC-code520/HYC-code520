@@ -19,6 +19,7 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 </a>  
 ⚡ Fun fact: I used to design fashion collections—now I design apps
 
+---
 
 ### 🛠️ Languages and Tools:
 
