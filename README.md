@@ -37,5 +37,6 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYC-code520&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYC-code520&layout=compact)
+
 
