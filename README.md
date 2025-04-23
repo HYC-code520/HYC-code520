@@ -9,7 +9,6 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 </div>
 
 🌱 I’m currently learning React Native, Flask, and mobile app development  
-🎨 I come from the fashion industry and love combining creativity with code  
 💻 Projects I'm building:  
   • LoveLog – a relationship memory tracker app  
   • A DIY gift request site for friends' birthdays  
