@@ -1,6 +1,9 @@
 # Hi 👋, I'm Ariel Chen — welcome to my GitHub!  
 
 A passionate full stack developer with 3 cats 🐱🐱🐱
+<div align="center">
+  <img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" width="300"/>
+</div>
 
 🌱 I’m currently learning React Native, Flask, and mobile app development  
 🎨 I come from the fashion industry and love combining creativity with code  
