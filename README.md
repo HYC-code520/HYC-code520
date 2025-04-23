@@ -1,4 +1,4 @@
-#Hi 👋, I'm Ariel Chen — welcome to my GitHub!  
+# Hi 👋, I'm Ariel Chen — welcome to my GitHub!  
 
 A passionate full stack developer with 3 cats 🐱🐱🐱
 
