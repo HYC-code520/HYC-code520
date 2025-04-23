@@ -10,6 +10,8 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 💬 Ask me about React, Flask, creative coding ideas, or how to turn a hobby into an app  
 📫 How to reach me: happilyeverafter0800@gmail.com  
 ⚡ Fun fact: I used to design fashion collections—now I design apps
+
+
 ---
 
 ### 🤝 Let's connect
