@@ -10,6 +10,7 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 
 🌱 Frontend-focused engineer experienced in React and Flask, recently expanding into Vue and Astro through professional projects
 💻 Projects:
+
   • Website Migration (Work) – rebuilding a Vue site in Astro to modernize performance and reduce complexity
   
   • Climate Tech App – tracks funding trends in sustainability startups
