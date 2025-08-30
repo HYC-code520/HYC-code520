@@ -9,9 +9,11 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 </div>
 
 🌱 Frontend-focused engineer experienced in React and Flask, recently expanding into Vue and Astro through professional projects
-💻 Projects I'm building:  
-  • LoveLog – a relationship memory tracker app  
-  • A DIY gift request site for friends' birthdays  
+💻 Projects:
+  • Website Migration (Work) – rebuilding a Vue site in Astro to modernize performance and reduce complexity
+  • Climate Tech App (Fellowship) – tracks funding trends in sustainability startups
+  • Financial Industry App (Fellowship) – provides data insights and visualization for fintech use cases
+  • Inner Child Sanctuary (Personal) – a mobile app for emotional wellness and journaling, blending creative UX with AI-driven reflection
 
 💬 Ask me about React, Flask, creative coding ideas, or how to turn a hobby into an app  
 📫 How to reach me: happilyeverafter0800@gmail.com and <a href="https://www.linkedin.com/in/ariel-chen-se/" target="_blank">
