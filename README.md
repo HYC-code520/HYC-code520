@@ -11,8 +11,11 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 🌱 Frontend-focused engineer experienced in React and Flask, recently expanding into Vue and Astro through professional projects
 💻 Projects:
   • Website Migration (Work) – rebuilding a Vue site in Astro to modernize performance and reduce complexity
+  
   • Climate Tech App (Fellowship) – tracks funding trends in sustainability startups
+  
   • Financial Industry App (Fellowship) – provides data insights and visualization for fintech use cases
+  
   • Inner Child Sanctuary (Personal) – a mobile app for emotional wellness and journaling, blending creative UX with AI-driven reflection
 
 💬 Ask me about React, Flask, creative coding ideas, or how to turn a hobby into an app  
