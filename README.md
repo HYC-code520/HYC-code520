@@ -41,11 +41,11 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HYC-code520&show_icons=true&theme=radical&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYC-code520&layout=compact&theme=radical&cache_seconds=86400" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HYC-code520&theme=radical" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HYC-code520&theme=radical" height="170"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HYC-code520&theme=radical" width="500"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYC-code520&theme=radical" width="600"/>
 
 
 
