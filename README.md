@@ -41,20 +41,11 @@ A passionate full stack developer with 3 cats 🐱🐱🐱
 ### 📊 GitHub Stats
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HYC-code520&theme=radical"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HYC-code520&theme=default" height="170"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HYC-code520&theme=radical"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HYC-code520&theme=default" height="170"/>
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HYC-code520&theme=radical" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HYC-code520&theme=radical" height="170"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYC-code520&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYC-code520&theme=default" width="600"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYC-code520&theme=radical" width="600"/>
 
 
 
